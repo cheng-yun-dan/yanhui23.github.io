@@ -22,25 +22,87 @@ redirect_from:
 主讲本科生课程“电力系统分析”和“自动控制理论”，研究生课程“动态电力系统分析与控制”。承担北京市教育教学改革项目2项，获得北京市高等教育教学成果一等奖1项、二等奖4项，荣获第七届北京市高等学校青年教学名师奖，全国高校黄大年式教师团队--“新能源电力系统保护控制教师团队”成员。指导的研究生中有多人获得华北电力大学优秀硕士论文、北京市优秀毕业生和国家奖学金。<br>
 
 教学与人才培养情况
-======
-1. 本科教学课程<br>
-  电力系统分析（2），核心课程<br>
-  自动控制理论B，核心课程<br>
-  电气工程概论<br>
-  电力系统自动化<br>
-1. 研究生教学课程<br>
-   动态电力系统分析与控制<br>
-   动态电力系统理论与方法<br>
-1. 教材编写<br>
-   动态电力系统稳定与控制，中国电力出版社，2024年，主编<br>
-   电力系统分析基础（第二版），机械工业出版社，2023年，参编<br>
-   自动控制理论，中国电力出版社，2023年，参编<br>
-1. 学生获得荣誉<br>
-   培养的研究生中有3篇论文获校优秀硕士论文，5人次获得国家奖学金和北京市优秀毕业生。<br>
+------
+<style>
+ol.custom-list {
+    counter-reset: item;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+ol.custom-list > li {
+    margin-bottom: 20px; /* 调整段落之间的间距 */
+    counter-increment: item;
+    margin-left: 20px;
+}
+
+ol.custom-list > li::before {
+    content: counter(item) ". ";
+    font-weight: bold;
+}
+</style>
+
+<ol class="custom-list">
+  <li><strong>本科教学课程</strong>
+    <ul>
+      <li>电力系统分析（2），核心课程</li>
+      <li>自动控制理论B，核心课程</li>
+      <li>电气工程概论</li>
+      <li>电力系统自动化</li>
+    </ul>
+  </li>
+  <li><strong>研究生教学课程</strong>
+    <ul>
+      <li>动态电力系统分析与控制</li>
+      <li>动态电力系统理论与方法</li>
+    </ul>
+  </li>
+  <li><strong>教材编写</strong>
+    <ul>
+      <li>动态电力系统稳定与控制，中国电力出版社，2024年，主编</li>
+      <li>电力系统分析基础（第二版），机械工业出版社，2023年，参编</li>
+      <li>自动控制理论，中国电力出版社，2023年，参编</li>
+    </ul>
+  </li>
+  <li><strong>学生获得荣誉</strong>
+    <ul>
+      <li>培养的研究生中有3篇论文获校优秀硕士论文，5人次获得国家奖学金和北京市优秀毕业生。</li>
+    </ul>
+  </li>
+</ol>
+   
 
 
 主要科研项目情况
 ------
+国家重点研发计划课题
+国家自然科学基金面上项目
+国家自然科学基金面上项目
+国家电网公司总部科技项目
+国家重点研发计划课题
+
+<style>
+ul.custom-list {
+    list-style-type: disc; /* 使用黑色实心点 */
+    margin-left: 20px; /* 调整缩进 */
+    padding-left: 20px; /* 调整缩进 */
+}
+
+ul.custom-list li {
+    margin-bottom: 10px; /* 段落间距 */
+}
+</style>
+
+<ul class="custom-list">
+    <li>国家重点研发计划课题</li>
+    <li>国家自然科学基金面上项目</li>
+    <li>国家自然科学基金面上项目</li>
+    <li>国家电网公司总部科技项目</li>
+    <li>国家重点研发计划课题</li>
+</ul>
+
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
