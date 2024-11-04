@@ -61,7 +61,8 @@
 
   /* paragraph indents */
   p {
-    margin: 0 0 $indent-var;
+    // margin: 0 0 $indent-var;
+   margin-bottom: 20px; /* 设置段间距 */
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
