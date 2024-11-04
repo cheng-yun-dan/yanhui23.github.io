@@ -1,8 +1,4 @@
-<style>
-p {
-    margin-bottom: 20px; /* 调整这里的值来设置段间距 */
-}
-</style>
+
 ---
 permalink: /
 title: "徐衍会 华北电力大学教授"
