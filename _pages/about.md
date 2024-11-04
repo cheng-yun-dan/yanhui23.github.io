@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
 .custom-paragraph {
-    line-height: 1.5; /* 调整行间距 */
+    line-height: 0.8; /* 调整行间距 */
 }
 </style>
 <p class="custom-paragraph">
@@ -124,13 +124,53 @@ ul.custom-list li {
 </ul>
 
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
+主要获奖
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<style>
+ul.custom-list {
+    list-style-type: disc; /* 使用黑色实心点 */
+    margin-left: 20px; /* 调整缩进 */
+    padding-left: 20px; /* 调整缩进 */
+}
 
-**Markdown generator**
+ul.custom-list li {
+    margin-bottom: 10px; /* 段落间距 */
+}
+</style>
+
+<ul class="custom-list">
+    <li>2024年度中国电机工程学会电力科学技术进步奖二等奖，1/10</li>
+    <li>2023年度中国电工技术学会科技进步奖二等奖，1/10</li>
+    <li>2020年度江西省省级科技进步奖，2/7</li>
+    <li>2024年度中国电机工程学会电力科学技术进步奖二等奖，10/10</li>
+</ul>
+
+近五年代表性科研成果
+------
+<style>
+.custom-paragraph {
+    line-height: 1.8; /* 调整段落行间距 */
+    margin-bottom: 20px; /* 调整段落之间的间距 */
+}
+.custom-list {
+    list-style-type: none;
+    margin-left: 20px; /* 调整列表缩进 */
+    padding-left: 20px; /* 调整列表缩进 */
+}
+.custom-list li {
+    margin-bottom: 15px; /* 调整列表项之间的间距 */
+}
+</style>
+
+<p class="custom-paragraph">
+参考文献
+</p>
+<ul class="custom-list">
+    <li>[1] **Y. Xu**, Z. Gu and K. Sun, "Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion," in IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 2783-2793, July 2020</li>
+    <li>[2] **Y. Xu**, Y. Cheng, L. Zheng and H. Liu, "A Criterion for Oscillation Source Localization With IBRs Based on Sub-Synchronous Frequency Component of Instantaneous Power," in IEEE Transactions on Power Systems, vol. 39, no. 6, pp. 7346-7358, Nov. 2024</li>
+    <li>[3] **Y. Xu**, Z. Gu, K. Sun and X. Xu, "Understanding a Type of Forced Oscillation Caused by Steam-Turbine Governors," in IEEE Transactions on Energy Conversion, vol. 35, no. 3, pp. 1719-1722, Sept. 2020</li>
+    <li>[4] **Y. Xu**, Y. Cheng, H. Liu and L. Zheng, "Study on Hopf bifurcation types and dominant parameters of grid-connected voltage source converter considering non-linear saturation elements," in IET Renewable Power Generation, vol. 17, no. 8, pp. 2124-2136, June. 2023</li>
+</ul>
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
