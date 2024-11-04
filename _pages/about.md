@@ -6,19 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.custom-paragraph {
+    line-height: 1.5; /* 调整行间距 */
+}
+</style>
+<p class="custom-paragraph">
+华北电力大学电气与电子工程学院教授，博士生导师，电气与电子工程学院副院长
+</p>
+<p class="custom-paragraph">
+研究方向：新能源电力系统稳定分析与控制
+</p>
+<p class="custom-paragraph">
+联系方式：xuyanhui23@sohu.com xuyanhui23@ncepu.edu.cn
+</p>
+<p class="custom-paragraph">
+办公地址：华北电力大学 主楼A603
+</p>
+<p class="custom-paragraph">
+办公电话：010-61771636
+</p>
 
-华北电力大学电气与电子工程学院教授，博士生导师，电气与电子工程学院副院长。<br>
-研究方向：新能源电力系统稳定分析与控制<br>
-联系方式：xuyanhui23@sohu.com xuyanhui23@ncepu.edu.cn<br>
-办公地址：华北电力大学 主楼A603<br>
-办公电话：010-61771636<br>
 
 
 个人简介及主要荣誉称号
 ======
 <style>
 .custom-paragraph {
-    line-height: 1.8; /* 调整行间距 */
+    line-height: 1.5; /* 调整行间距 */
 }
 </style>
 <p class="custom-paragraph">
@@ -87,11 +102,6 @@ ol.custom-list > li::before {
 
 主要科研项目情况
 ------
-国家重点研发计划课题
-国家自然科学基金面上项目
-国家自然科学基金面上项目
-国家电网公司总部科技项目
-国家重点研发计划课题
 
 <style>
 ul.custom-list {
@@ -106,11 +116,11 @@ ul.custom-list li {
 </style>
 
 <ul class="custom-list">
-    <li>国家重点研发计划课题</li>
-    <li>国家自然科学基金面上项目</li>
-    <li>国家自然科学基金面上项目</li>
-    <li>国家电网公司总部科技项目</li>
-    <li>国家重点研发计划课题</li>
+    <li>国家重点研发计划课题，1800万元，主持</li>
+    <li>国家自然科学基金面上项目，50万元，主持</li>
+    <li>国家自然科学基金面上项目，58万元，主持</li>
+    <li>国家电网公司总部科技项目，420万元，主持</li>
+    <li>国家重点研发计划课题，867万元，参与</li>
 </ul>
 
 
