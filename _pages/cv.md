@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 博士，华北电力大学，2010
+* 硕士，华北电力大学，2004
+* 本科，华北电力大学，2001
 
-Work experience
+工作经历
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2006-2014 华北电力大学 讲师
+* 2014-2021 华北电力大学 副教授
+* 2020-至今 华北电力大学 博士生导师
+* 2021-至今 华北电力大学 教授
+  
+曾获荣誉
+======
+* 2023 北京市高等学校青年教学名师
+* 2023 全国高校黄大年式教师团队成员
+* 2019 北京高校优秀本科育人团队成员
+* 2023 华北电力大学教学优秀特等奖
+* 2014 华北电力大学十佳班主任
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+学术职务
+======
+* 2022-至今 国家重点实验室固定研究人员
+* 2023-至今 IEEE Senior Member
+* 2022-至今 IEEE PES 电网稳定控制技术分委会常务理事
+* 2022-至今 IEEE PES 氢储能技术分委会常务理事
+* 2019-至今 IEEE PES 振荡源定位工作组成员
+* 2023-至今 Global Energy Interconnection 期刊编委
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+社会职务
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-2023 中国电力教育协会电气工程学科教学委员会副主任委员
+* 2021-2025 中国能源学会专家委员会电力专家组委员
+* 2022-2027 中国机械工业教育协会电力系统及其自动化专业委员会副主任委员
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
