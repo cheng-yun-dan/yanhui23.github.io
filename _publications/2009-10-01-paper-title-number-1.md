@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Eigen-analysis is widely used in the studies of power system oscillation and small-signal stability. However, it may give inaccurate analyses on subsynchronous oscillation (SSO) when nonlinearity is not negligible. In this paper, a nonlinear analytical approach based on the describing function and generalized Nyquist criterion is proposed to analyze the characteristics of SSO with wind farms. The paper first presents describing function-based model reduction considering key nonlinear elements involved in SSO, and then uses a generalized Nyquist criterion for accurate estimation of SSO amplitude and frequency. The results are verified by time-domain simulations on a detailed model with different scenarios considering variations of the system condition and controller parameters.'
+date: 2020-07
+venue: 'IEEE Transaction on Power Systems'
+citation: 'Yanhui Xu, Zheng Gu, Kai Sun, “Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion,’’ IEEE Transaction on Power Systems, vol.35, No.4, pp. 2783-2793, Jul. 2020.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Eigen-analysis is widely used in the studies of power system oscillation and small-signal stability. However, it may give inaccurate analyses on subsynchronous oscillation (SSO) when nonlinearity is not negligible. In this paper, a nonlinear analytical approach based on the describing function and generalized Nyquist criterion is proposed to analyze the characteristics of SSO with wind farms. The paper first presents describing function-based model reduction considering key nonlinear elements involved in SSO, and then uses a generalized Nyquist criterion for accurate estimation of SSO amplitude and frequency. The results are verified by time-domain simulations on a detailed model with different scenarios considering variations of the system condition and controller parameters.
