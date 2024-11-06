@@ -163,7 +163,7 @@ ul.custom-list li {
 </style>
 
 <p class="custom-paragraph">
-参考文献
+期刊论文
 </p>
 <ul class="custom-list">
     <li>[1] <strong>Yanhui Xu</strong>, Zheng Gu, Kai Sun, “Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion,’’ IEEE Transaction on Power Systems, vol.35, No.4, pp. 2783-2793, Jul. 2020.</li>
