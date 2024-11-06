@@ -2,7 +2,7 @@
 title: "Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-07-01-paper-title-number-2
 excerpt: 'Index Terms—Wind farm, subsynchronous oscillation, describing function, generalized Nyquist criterion.'
 date: 2020-07-01
 venue: 'IEEE Transaction on Power Systems'
