@@ -145,7 +145,7 @@ ul.custom-list li {
     <li>2024年度中国电机工程学会电力科学技术进步奖二等奖，10/10</li>
 </ul>
 
-近五年代表性科研成果
+代表性科研成果
 ------
 <style>
 .custom-paragraph {
@@ -166,22 +166,20 @@ ul.custom-list li {
 参考文献
 </p>
 <ul class="custom-list">
-    <li>[1] **Y. Xu**, Z. Gu and K. Sun, "Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion," in IEEE Transactions on Power Systems, vol. 35, no. 4, pp. 2783-2793, July 2020</li>
-    <li>[2] **Y. Xu**, Y. Cheng, L. Zheng and H. Liu, "A Criterion for Oscillation Source Localization With IBRs Based on Sub-Synchronous Frequency Component of Instantaneous Power," in IEEE Transactions on Power Systems, vol. 39, no. 6, pp. 7346-7358, Nov. 2024</li>
-    <li>[3] **Y. Xu**, Z. Gu, K. Sun and X. Xu, "Understanding a Type of Forced Oscillation Caused by Steam-Turbine Governors," in IEEE Transactions on Energy Conversion, vol. 35, no. 3, pp. 1719-1722, Sept. 2020</li>
-    <li>[4] **Y. Xu**, Y. Cheng, H. Liu and L. Zheng, "Study on Hopf bifurcation types and dominant parameters of grid-connected voltage source converter considering non-linear saturation elements," in IET Renewable Power Generation, vol. 17, no. 8, pp. 2124-2136, June. 2023</li>
+    <li>[1] <strong>Xu Yanhui</strong>, Zheng Gu, Kai Sun, “Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion,’’ IEEE Transaction on Power Systems, vol.35, No.4, pp. 2783-2793, Jul. 2020.</li>
+    <li>[2] <strong>Xu Yanhui</strong>, Cheng Yundan, Zheng Le and Liu hui, "A Criterion for Oscillation Source Localization With IBRs Based on Sub-Synchronous Frequency Component of Instantaneous Power," in IEEE Transactions on Power Systems, vol. 39, no. 6, pp. 7346-7358, Nov. 2024</li>
+    <li>[3] <strong>Xu Yanhui</strong>, Zheng Gu, Kai Sun, Xin Xu, “Understanding a Type of Forced Oscillation Caused by Steam-Turbine Governors,” IEEE Transaction on Energy Conversion, vol.35, No.3, pp. 1719-1722, Sep. 2020.</li>
+    <li>[4] <strong>Xu Yanhui</strong>, Zilin Deng, “Bi-level Planning of Microgrid Considering Seasonal Hydrogen Storage and Efficiency Degradation of Electrolyzer,” IEEE Transactions on Industry Applications, 2024. (Accepted)</li>
+    <li>[5] Le Zheng, Xin Liu,  <strong>Xu Yanhui</strong>, Wei Hu, Chongru Liu, “Data-driven Estimation for a Region of Attraction for Transient Stability Using the Koopman Operator,” CSEE Journal of Power and Energy Systems, vol.9, No.4, pp. 1405-1413, Jul. 2023.</li>
+    <li>[6]<strong>Xu Yanhui</strong>, Yundan Cheng, Hui Liu, Le Zheng, “Study on Hopf Bifurcation Types and Dominant Parameters of Grid-connected Voltage Source Converter Considering Non-linear Saturation Elements,’’ IET Renewable Power Generation, vol.17, No.8, pp. 2124-2136, Jun. 2023.</li>
+    <li>[7]<strong>Xu Yanhui</strong>, Yuping Cao, “Sub-Synchronous Oscillation in PMSGs-based Wind Farms caused by Amplification Effect of GSC controller and PLL to Harmonics,” IET Renewable Power Generation, vol.12, No.7, pp. 844-850, May. 2018.</li>
+    <li>[8]<strong>Xu Yanhui</strong>, Wei Bai, Shimeng Zhao, Junfeng Zhang, Yanjun Zhao, “Mitigation of forced oscillations using VSC-HVDC supplementary damping control,’’ Electric Power Systems Research, vol.184, pp. 106333, 2020.</li>
+    <li>[9]<strong>徐衍会</strong>, 陈浩维, 胡俊杰. 光伏电解水制氢典型工况及质子交换膜电解堆性能衰减研究[J]. 电工技术学报, 2024, 39(19): 6228-6243.</li>
+    <li>[10]<strong>徐衍会</strong>, 成蕴丹, 刘慧, 高镱滈. 基于瞬时功率的次同步振荡频率提取及振荡源识别方法[J]. 电工技术学报, 2023, 38(11): 2894-2907.</li>
+    <li>[11]<strong>徐衍会</strong>, 任晋, 田鑫, 张玉跃. 综合提升新能源高占比受端电网小干扰和暂态电压稳定性的SVG优化配置方法[J]. 电力系统保护与控制, 2024, 52(19): 119-130.</li>
+    <li>[12]郑乐, 郑佳杰, 阳岳希, 杜镇宇, <strong>徐衍会</strong>. 100%变流器接口电源电力系统的同调特性分析[J]. 中国电机工程学报.</li>
+    <li>[13]郑乐, 吴晶, <strong>徐衍会</strong>, 孙英云, 刘崇茹. HVDC送端系统振荡引发受端换相失败的机理分析[J]. 电工技术学报, 2024, 39(09): 2743-2754.</li>
+    <li>[14]<strong>徐衍会</strong>, 高天初, 滕先浩. 基于盖尔原理的逆变器并网系统稳定性判据[J]. 电力系统自动化, 2022, 46(21): 89-96.</li>
+    <li>[15]<strong>徐衍会</strong>, 滕先浩. 风电场内机群间次同步振荡相互作用[J]. 电力自动化设备, 2020, 40(09): 156-164.</li>
 </ul>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
