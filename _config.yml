@@ -31,7 +31,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "照片.png"
+  avatar           : "photo.png"
   name             : "徐衍会"
   pronouns         : # example: "she/her"  
   bio              : "教授 博导"
