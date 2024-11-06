@@ -3,7 +3,7 @@ title: "Awards"
 layout: archive
 ---
 
-## 奖项列表
+## 科研奖励
 
 - 奖项1
 - 奖项2
