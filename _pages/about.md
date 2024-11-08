@@ -166,8 +166,8 @@ ul.custom-list li {
 期刊论文
 </p>
 <ul class="custom-list">
-    <li>[1] <strong>Yanhui Xu</strong>, Zheng Gu, Kai Sun, “Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion,’’ IEEE Transaction on Power Systems, vol.35, No.4, pp. 2783-2793, Jul. 2020.</li>
-    <li>[2] <strong>Yanhui Xu</strong>, Yundan Cheng, Le Zheng and Liu hui, "A Criterion for Oscillation Source Localization With IBRs Based on Sub-Synchronous Frequency Component of Instantaneous Power," in IEEE Transactions on Power Systems, vol. 39, no. 6, pp. 7346-7358, Nov. 2024</li>
+    <li>[1] <strong>Yanhui Xu</strong>, Yundan Cheng, Le Zheng and Liu hui, "A Criterion for Oscillation Source Localization With IBRs Based on Sub-Synchronous Frequency Component of Instantaneous Power," in IEEE Transactions on Power Systems, vol. 39, no. 6, pp. 7346-7358, Nov. 2024</li>  
+    <li>[2] <strong>Yanhui Xu</strong>, Zheng Gu, Kai Sun, “Characterization of Subsynchronous Oscillation with Wind Farms Using Describing Function and Generalized Nyquist Criterion,’’ IEEE Transaction on Power Systems, vol.35, No.4, pp. 2783-2793, Jul. 2020.</li>
     <li>[3] <strong>Yanhui Xu</strong>, Zheng Gu, Kai Sun, Xin Xu, “Understanding a Type of Forced Oscillation Caused by Steam-Turbine Governors,” IEEE Transaction on Energy Conversion, vol.35, No.3, pp. 1719-1722, Sep. 2020.</li>
     <li>[4] <strong>Yanhui Xu</strong>, Zilin Deng, “Bi-level Planning of Microgrid Considering Seasonal Hydrogen Storage and Efficiency Degradation of Electrolyzer,” IEEE Transactions on Industry Applications, 2024. (Accepted)</li>
     <li>[5] Le Zheng, Xin Liu,  <strong>Yanhui Xu</strong>, Wei Hu, Chongru Liu, “Data-driven Estimation for a Region of Attraction for Transient Stability Using the Koopman Operator,” CSEE Journal of Power and Energy Systems, vol.9, No.4, pp. 1405-1413, Jul. 2023.</li>
