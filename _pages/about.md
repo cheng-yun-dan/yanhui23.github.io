@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "徐衍会 华北电力大学教授"
+title: "徐衍会 华北电力大学 教授"
 author_profile: true
 redirect_from: 
   - /about/
