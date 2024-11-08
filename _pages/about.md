@@ -12,7 +12,7 @@ redirect_from:
 }
 </style>
 <p class="custom-paragraph">
-华北电力大学电气与电子工程学院教授，博士生导师，电气与电子工程学院副院长
+工学博士，教授，博士生导师，电气与电子工程学院副院长
 </p>
 <p class="custom-paragraph">
 研究方向：新能源电力系统稳定分析与控制
