@@ -35,3 +35,8 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
+<!-- 在页面底部添加备案号 -->
+<p style="text-align:center; font-size:small; color:gray;">
+晋ICP备2025063519号
+</p>
